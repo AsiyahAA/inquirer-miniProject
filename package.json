@@ -1,0 +1,23 @@
+{
+  "name": "inquirer-miniproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsiyahAA/inquirer-miniProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsiyahAA/inquirer-miniProject/issues"
+  },
+  "homepage": "https://github.com/AsiyahAA/inquirer-miniProject#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
